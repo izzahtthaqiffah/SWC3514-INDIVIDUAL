@@ -1,0 +1,14 @@
+# Ignore BlueJ specific context and package files
+*.ctxt
+*.bluej
+*.pkg
+
+# Ignore compiled Java files (these are generated when you click 'Compile')
+*.class
+
+# Ignore BlueJ backup files
+*.bak
+
+# Ignore OS-specific hidden files
+.DS_Store
+Thumbs.db
